@@ -1,0 +1,12 @@
+
+- Useful commands:
+
+bundle exec jekyll serve
+
+jekyll build
+
+jekyll serve
+
+- site:
+
+http://127.0.0.1:4000/me/2017/06/09/hello.html
