@@ -1,4 +1,4 @@
-virtualizerocket.github.io
+sclereid.github.io
 ========================
 
 ### Why creat a such page ###
@@ -31,6 +31,5 @@ Upgraded UI, added "About".
 + Dec. 31st, 2016:
 Added "Archives", fixed quantities of problems of the new UI, removed old links, redirected the changelog here.
 
-*************
-The source of pattern.svg could be found here:
-http://qrohlf.com/trianglify-generator/
++ June. 11th, 2017:
+Committed changes of moving this site to jekyll.
