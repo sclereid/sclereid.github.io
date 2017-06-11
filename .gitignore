@@ -1,8 +1,14 @@
+# jekyll
+
 _site
 .sass-cache
 .jekyll-metadata
 
-#text editor
+# mine
+
+_drafts
+
+# text editor
 *~
 \#*
 
