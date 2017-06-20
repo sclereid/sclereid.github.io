@@ -16,7 +16,7 @@ layout: default
                 {% endif %}
             </li>
             <li class="post-meta">
-                categories: {{page.categories}}
+                categories: {{ page.categories }}
             </li>
         </ul>
         <!--p class="post-cate"-->
@@ -26,7 +26,7 @@ layout: default
         {{ content }}
     </div>
 
-    {% if site.disqus.shortname %}
-        {% include disqus_comments.html %}
-    {% endif %}
+    <footer class="post-footer">
+        
+    </footer>
 </article>

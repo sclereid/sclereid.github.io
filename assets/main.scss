@@ -39,3 +39,19 @@ body {
     width: 200px;
     list-style: none;
 }
+
+.post-footer ul {
+    margin: 0
+}
+
+.post-footer ul>li {
+    width: 200px;
+    list-style: none;
+}
+
+hr {
+    margin: 30%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    color: lightgray;
+}

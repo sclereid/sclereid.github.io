@@ -7,16 +7,18 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li> by
+          <li>
             {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %} &copy;2017
+              by {{ site.author | escape }}  &copy;{{ "now" | date: "%Y" }}
+
+            {% endif %}
             </li>
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
+            <li>
+                generated at {{ "now" | date: "%m-%d %H:%M" }}
+            </li>
         </ul>
       </div>
 
