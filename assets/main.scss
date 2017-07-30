@@ -55,3 +55,29 @@ hr {
     margin-bottom: 7%;
     color: lightgray;
 }
+
+.commentit-wrapper {
+    border-top: 1px solid lightgray;
+    padding-top: 50px;
+}
+
+.media {
+    padding: 10px;
+    border: 1px dotted lightgray;
+}
+
+.media-left {
+    float: left;
+}
+
+.media-body {
+    margin-left: 60px;
+    padding-left: 10px;
+    border-left: 1px solid lightgray;
+}
+
+.text-muted {
+    color: gray;
+    font-family: monospace;
+    font-size: 0.75em;
+}

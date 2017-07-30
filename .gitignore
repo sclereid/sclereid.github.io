@@ -1,17 +1,19 @@
-# jekyll
+## jekyll
 
 _site
 .sass-cache
 .jekyll-metadata
 
-# mine
+## mine
 
 _drafts
 
-# text editor
+## text editor
+
 *~
 \#*
 
-#python
+##python
+
 .py[coz]
 
