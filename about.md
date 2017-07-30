@@ -19,9 +19,12 @@ About me:
 This is sclereid, someone who lives in the far east.
 
 
-
 About site:
 -------------
 
 This work is licensed under a <a href="https://creativecommons.org/licenses/by-\
 nc-sa/3.0/">CC-BY-NC-SA 3.0</a> license.
+
+### comments:
+
+Comment system is avalible now. You may sign in with your {% include icon-github.html %} or {% include icon-twitter.html %} account to levave a comment. Markdown and mathjax (insert $\LaTeX$ between `$` and `$`) are supported.

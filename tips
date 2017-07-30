@@ -10,3 +10,9 @@ jekyll serve
 - site:
 
 http://127.0.0.1:4000/
+
+- memo:
+
+1. run `bundle update`
+2. run `git pull` to sync comments
+3. update ideas more often
