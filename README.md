@@ -34,5 +34,8 @@ Added "Archives", fixed quantities of problems of the new UI, removed old links,
 + June. 11th, 2017:
 Committed changes of moving this site to jekyll.
 
-+ July. 31th, 2017:
++ July. 31st, 2017:
 Added a comment system.
+
++ Dec. 23rd, 2017:
+Created a button for commenting.

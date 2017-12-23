@@ -17,7 +17,7 @@ author: sclereid
 title: sclereid's site
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Someone lives alone in the far east.
+  Yet I stand against the wind.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sclerid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -26,7 +26,7 @@ github_username:  sclereid
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile

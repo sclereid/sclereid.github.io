@@ -22,8 +22,7 @@ This is sclereid, someone who lives in the far east.
 About site:
 -------------
 
-This work is licensed under a <a href="https://creativecommons.org/licenses/by-\
-nc-sa/3.0/">CC-BY-NC-SA 3.0</a> license.
+This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC-BY-NC-SA 3.0</a> license. You are free to free to copy and share, but an appropriate credit is required.
 
 ### comments:
 
