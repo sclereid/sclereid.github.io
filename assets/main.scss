@@ -92,3 +92,16 @@ hr {
     letter-spacing: 0.1em;
     text-align: center;
 }
+
+table
+{
+    border-right: 1px solid #F0F0F0;
+    border-bottom: 1px solid #F0F0F0;
+}
+
+th, td
+{
+    padding: 5px;
+    border-top: 2px solid gray;
+    border-left: 2px solid lightgray;
+}
