@@ -39,3 +39,10 @@ Added a comment system.
 
 + Dec. 23rd, 2017:
 Created a button for commenting.
+
++ Jan. 8th, 2018:
+Changed the source of mathjax.
+
++ Feb. 23rd, 2018:
+More articles.
+

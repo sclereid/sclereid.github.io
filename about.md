@@ -26,4 +26,8 @@ This work is licensed under a <a href="https://creativecommons.org/licenses/by-n
 
 ### comments:
 
-Comment system is avalible now. You may sign in with your {% include icon-github.html %} or {% include icon-twitter.html %} account to levave a comment. Markdown and mathjax (insert $\LaTeX$ between `$` and `$`) are supported.
+Comment system is available now. You may sign in with your {% include icon-github.html %} or {% include icon-twitter.html %} account to levave a comment. Markdown and mathjax (insert $\LaTeX$ between `$` and `$`) are supported.
+
+### javascript:
+
+Please make sure that your web browser supports javascript. Otherwise, you will find the equation code annoying.

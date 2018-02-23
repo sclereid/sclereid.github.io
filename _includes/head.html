@@ -11,16 +11,23 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
     <script src="/deps/jquery-min.js"></script>
-    <script src="/scripts/common.js"><script>
+    <script src="/scripts/common.js"></script>
     
     {% if jekyll.environment == 'production' and site.google_analytics %}
         {% include google-analytics.html %}
     {% endif %}
+    
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
-            tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
+            tex2jax: {
+                inlineMath: [['$','$'], ['\\(','\\)']],
+                displayMath: [ ['$$','$$'], ['\[','\]'] ],
+                processEscapes: true
+            },
             jax: ["input/TeX","output/SVG"]
         });
     </script>
-    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 </head>
