@@ -17,12 +17,8 @@ author: sclereid
 title: sclereid's site
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-<<<<<<< HEAD
-  ...and of course, I still love you!
-=======
   ..and of course, I still love you!
   The proof is trivial.
->>>>>>> 33ed34901cad8bf14632373b0fa61e453099facc
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sclerid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
