@@ -16,8 +16,7 @@ comments:
 About me:
 -------------
 
-This is sclereid, someone who lives in the far east.
-
+I am a collage student, majoring in mathematics. My interests are mainly maths (well that's what I do now), and some astronomy. Besides, I really think that I appreciate classic music. There were a time when programmed a lot and liked it, as you may find out in the github page, but now I rarely do that except for special occasions. This website is updated slowly and without a stable frequency. If you wish to find me, please try the following places (although sometimes I hardly use them, too):
 
 About site:
 -------------
