@@ -33,10 +33,21 @@
     }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+    <script src="http://pv.sohu.com/cityjson?ie=utf-8"></script> 
+    <script src="../Bmob-2.2.4.min.js"></script>
     <script>
+        Bmob.initialize("a9db65116b364802", "123321");
         $(document).ready(function(){
             $("div#main").hide();
             $("div#main").css('opacity', 100);
+            const query = Bmob.Query('view_count_1');
+            query.set("a", returnCitySN["cip"])
+            query.save().then(res => {
+                console.log(res)
+            }).catch(err => {
+                alert("Some of the features are not loaded");
+                console.log(err)
+            })
             $("div#main").fadeIn(3000);
         });
     </script>
